@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antanteab.github.io/sitemap.html.gz
+Sitemap: https://antanteab.github.io/app/sitemap.html.gz
+Sitemap: https://antanteab.github.io/assets/sitemap.html.gz
+Sitemap: https://antanteab.github.io/css/sitemap.html.gz
+Sitemap: https://antanteab.github.io/data/sitemap.html.gz
+Sitemap: https://antanteab.github.io/includes/sitemap.html.gz
+Sitemap: https://antanteab.github.io/item/sitemap.html.gz
+Sitemap: https://antanteab.github.io/src/sitemap.html.gz
